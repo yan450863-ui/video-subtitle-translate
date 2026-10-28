@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频字幕翻译"
+  short_description: "提取原字幕、识别语音或画面文字，由当前助手翻译并制作中文字幕成片"
+  default_prompt: "使用 $video-subtitle-translate 处理指定视频，优先提取字幕，由当前助手翻译并核验中文字幕成片。"
